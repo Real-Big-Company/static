@@ -1,1 +1,1 @@
-# Real Big Company — Liminal Interfaces Division
+# Real Big Company — Static Laboratories Subsection
