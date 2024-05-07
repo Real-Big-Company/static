@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/battery.png
   image_alt: RealBig Researchers Develop Revolutionary Static Ultra-Capacitor
 draft: false
+syndicate: false
 ---
 Scientists at RealBig's Static Laboratories SubSection have achieved a major breakthrough in static storage technology. Their prototype ultra-capacitor can store and discharge static websites hundreds of times faster than traditional database designs.
 

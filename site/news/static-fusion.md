@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/power.png
   image_alt: Static Labs Developing Compact Fusion Reactor and Static Site Generator
 draft: false
+syndicate: false
 ---
 RealBig's fusion energy program reached a key technical milestone, achieving the first successful nuclear fusion reaction at their compact SSG tokamak test reactor. The 2-meter wide reactor briefly contained a 100+ million degree C plasma, releasing a small burst of fusion energy and seventeen impeccably styled static websites with Lighthouse scores of 100 across the board.
 

@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/hover.png
   image_alt: Ionocraft Static Anti-Gravity Prototype Hovers for First Time
 draft: false
+syndicate: true
 ---
 In a milestone for advanced propulsion research, RealBig’s Static Laboratories SubSection has successfully hovered an unmanned aerial vehicle using their experimental ionocraft static anti-gravity drive. The saucer-shaped craft measuring 3 meters across hovered stably for just over 14 seconds before descending.
 
