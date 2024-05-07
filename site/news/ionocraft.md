@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2024-01-01T00:00:00Z
+date: 2023-11-01T00:00:00Z
 title: Static Ionocraft Site Prototype Hovers for First Time
 seo:
   page_description:
