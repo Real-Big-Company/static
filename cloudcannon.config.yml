@@ -6,9 +6,9 @@ paths:
 
 commit_templates:
   - label: Default message
-    template_string: '[default_commit_message]'
+    template_string: "[default_commit_message]"
   - label: Custom message
-    template_string: '{message}'
+    template_string: "{message}"
 
 collections_config:
   pages:
@@ -62,9 +62,9 @@ collections_config:
     _enabled_editors:
       - data
     glob:
-      - '!nav.json'
-      - '!footer.json'
-      - '!theme.json'
+      - "!nav.json"
+      - "!footer.json"
+      - "!theme.json"
   site_navigation:
     disable_url: true
     path: _data
@@ -217,7 +217,7 @@ _inputs:
   permalink:
     type: text
     options:
-      pattern: '\/.*\/|\/'
+      pattern: "\/.*\/|\/"
       pattern_message: Permalink must start and end with a forward slash.
   layout:
     hidden: true
